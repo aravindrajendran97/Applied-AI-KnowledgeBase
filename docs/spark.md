@@ -1,6 +1,7 @@
 # Spark - Scala - CATS
 
 Resources:  
+
 https://typelevel.org/cats/resources_for_learners.html 
 
 Course Link:  
